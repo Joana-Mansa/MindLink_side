@@ -1,0 +1,77 @@
+# Local page and asset audit
+
+Inspected HTML/JSP references recursively on 2026-09-15. Server routes require the backend; fragments used for menus are retained. Missing images are shown as descriptive text, not invented portraits.
+
+| File | Previous target | Repair |
+|---|---|---|
+| `index.html` | `./img/Mental_Health_Support_Logo.png` | missing; removed reference |
+| `index.html` | `./img/step1.png` | missing; removed reference |
+| `index.html` | `./img/step2.png` | missing; removed reference |
+| `index.html` | `./img/step3.png` | missing; removed reference |
+| `index.html` | `./img/doctor1.jpg` | missing; removed reference |
+| `index.html` | `./img/doctor2.jpg` | missing; removed reference |
+| `index.html` | `./img/doctor3.jpg` | missing; removed reference |
+| `index.html` | `./img/step1.png` | missing; removed reference |
+| `index.html` | `./img/step1.png` | missing; removed reference |
+| `index.html` | `./img/step1.png` | missing; removed reference |
+| `index.html` | `img/therapist1.jpg` | missing; removed reference |
+| `index.html` | `./img/therapist2.jpg` | missing; removed reference |
+| `index.html` | `./img/therapist3.jpg` | missing; removed reference |
+| `index.html` | `./img/therapist4.jpg` | missing; removed reference |
+| `index.html` | `./img/therapist5.jpg` | missing; removed reference |
+| `index.html` | `./img/therapist6.jpg` | missing; removed reference |
+| `index.html` | `./img/therapist7.jpg` | missing; removed reference |
+| `index.html` | `./img/therapist8.jpg` | missing; removed reference |
+| `index.html` | `./img/therapist9.jpg` | missing; removed reference |
+| `index.html` | `./img/therapist9.jpg` | missing; removed reference |
+| `index.html` | `./img/therapist9.jpg` | missing; removed reference |
+| `index.html` | `img/therapist1.jpg` | missing; removed reference |
+| `index.html` | `./img/support1.jpg` | missing; removed reference |
+| `index.html` | `./img/support2.jpg` | missing; removed reference |
+| `index.html` | `./img/support3.jpg` | missing; removed reference |
+| `index.html` | `./img/support-image.png` | missing; removed reference |
+| `html_files/psyc_list.html` | `../img/logo.png` | missing; removed reference |
+| `html_files/psyc_list.html` | `../img/Mental_Health_Support_Logo.png` | missing; removed reference |
+| `html_files/psyc_list.html` | `../img/therapist3.jpg` | missing; removed reference |
+| `html_files/psyc_list.html` | `../img/therapist2.jpg` | missing; removed reference |
+| `html_files/psyc_list.html` | `../img/therapist3.jpg` | missing; removed reference |
+| `html_files/psyc_list.html` | `../img/therapist4.jpg` | missing; removed reference |
+| `html_files/psyc_list.html` | `../img/therapist5.jpg` | missing; removed reference |
+| `html_files/psyc_list.html` | `../img/therapist6.jpg` | missing; removed reference |
+| `html_files/psyc_list.html` | `../img/therapist7.jpg` | missing; removed reference |
+| `html_files/psyc_list.html` | `../img/therapist8.jpg` | missing; removed reference |
+| `html_files/sign_up.html` | `../img/Mental_Health_Support_Logo.png` | missing; removed reference |
+| `html_files/test_interaction.html` | `../img/logo.png` | missing; removed reference |
+| `html_files/test_interaction.html` | `../img/Mental_Health_Support_Logo.png` | missing; removed reference |
+| `html_files/calendar.html` | `../img/logo.png` | missing; removed reference |
+| `html_files/calendar.html` | `../img/Mental_Health_Support_Logo.png` | missing; removed reference |
+| `html_files/dr_addiction_test.html` | `../../images/logo.png` | missing; removed reference |
+| `html_files/dr_addiction_test.html` | `../img/Mental_Health_Support_Logo.png` | missing; removed reference |
+| `html_files/resources_page.html` | `../img/Mental_Health_Support_Logo.png` | missing; removed reference |
+| `html_files/contact.html` | `../img/Mental_Health_Support_Logo.png` | missing; removed reference |
+| `html_files/patient_profile.html` | `../img/Mental_Health_Support_Logo.png` | missing; removed reference |
+| `html_files/patient_profile.html` | `../Js_files/patient_profile.js` | missing; removed reference |
+| `html_files/login.html` | `../img/Mental_Health_Support_Logo.png` | missing; removed reference |
+| `html_files/dr_eating_disorder_test.html` | `../../images/logo.png` | missing; removed reference |
+| `html_files/dr_eating_disorder_test.html` | `../img/Mental_Health_Support_Logo.png` | missing; removed reference |
+| `html_files/dr_depression_test.html` | `../../images/logo.png` | missing; removed reference |
+| `html_files/dr_depression_test.html` | `../img/Mental_Health_Support_Logo.png` | missing; removed reference |
+| `html_files/dr_couple_therapy_test.html` | `../../images/logo.png` | missing; removed reference |
+| `html_files/dr_couple_therapy_test.html` | `../img/Mental_Health_Support_Logo.png` | missing; removed reference |
+| `html_files/dr_mood_disorder_test.html` | `../../images/logo.png` | missing; removed reference |
+| `html_files/dr_mood_disorder_test.html` | `../img/Mental_Health_Support_Logo.png` | missing; removed reference |
+| `html_files/about_page.html` | `../img/Mental_Health_Support_Logo.png` | missing; removed reference |
+| `html_files/about_page.html` | `../img/doctor1.jpg` | missing; removed reference |
+| `html_files/about_page.html` | `../img/doctor2.jpg` | missing; removed reference |
+| `html_files/about_page.html` | `../img/doctor3.jpg` | missing; removed reference |
+| `html_files/dr_profile.html` | `../img/logo.png` | missing; removed reference |
+| `html_files/dr_profile.html` | `../img/Mental_Health_Support_Logo.png` | missing; removed reference |
+| `html_files/matching.html` | `../img/Mental_Health_Support_Logo.png` | missing; removed reference |
+| `html_files/appointment_page.html` | `../img/Mental_Health_Support_Logo.png` | missing; removed reference |
+| `html_files/dr_anxiety_test.html` | `../../images/logo.png` | missing; removed reference |
+| `html_files/dr_anxiety_test.html` | `../img/Mental_Health_Support_Logo.png` | missing; removed reference |
+| `html_files/tests_page.html` | `../img/logo.png` | missing; removed reference |
+| `html_files/tests_page.html` | `../img/Mental_Health_Support_Logo.png` | missing; removed reference |
+| `html_files/tests_page.html` | `../Js_files_test/all_tests.js` | relinked to ../Js_files/all_tests.js |
+| `html_files/dr_ocd_test.html` | `../../images/logo.png` | missing; removed reference |
+| `html_files/dr_ocd_test.html` | `../img/Mental_Health_Support_Logo.png` | missing; removed reference |

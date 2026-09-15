@@ -1,0 +1,25 @@
+# Screen directory
+
+- [404](404.html)
+- [about page](about_page.html)
+- [appointment page](appointment_page.html)
+- [calendar](calendar.html)
+- [contact](contact.html)
+- [dr addiction test](dr_addiction_test.html)
+- [dr anxiety test](dr_anxiety_test.html)
+- [dr couple therapy test](dr_couple_therapy_test.html)
+- [dr depression test](dr_depression_test.html)
+- [dr eating disorder test](dr_eating_disorder_test.html)
+- [dr mood disorder test](dr_mood_disorder_test.html)
+- [dr ocd test](dr_ocd_test.html)
+- [dr profile](dr_profile.html)
+- [login](login.html)
+- [matching](matching.html)
+- [patient profile](patient_profile.html)
+- [psyc list](psyc_list.html)
+- [resources page](resources_page.html)
+- [sign up](sign_up.html)
+- [test interaction](test_interaction.html)
+- [tests page](tests_page.html)
+
+Serve the repository root, not this directory, so relative CSS and JavaScript paths resolve. Forms that depend on server actions are demonstrations until the backend is restored.
